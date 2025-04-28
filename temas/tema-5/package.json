@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "datatables.net": "^2.2.2",
+    "grunt": "^1.6.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^4.0.0",
+    "i": "^0.3.7",
+    "npm": "^10.9.2"
+  }
+}
